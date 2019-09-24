@@ -1,0 +1,13 @@
+ca-certificates
+apt-transport-https
+locales
+locales-all
+wget 
+curl
+gnupg2
+unzip
+figlet
+git
+postgresql-client
+inotify-tools
+build-essential
