@@ -3,6 +3,7 @@ apt-transport-https
 locales
 locales-all
 wget 
+vim
 curl
 gnupg2
 unzip
