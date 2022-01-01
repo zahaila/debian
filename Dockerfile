@@ -1,4 +1,4 @@
-FROM debian:stretch
+FROM --platform=amd64 debian:stretch-slim
 
 COPY . /tmp
 

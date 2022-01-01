@@ -3,12 +3,9 @@ apt-transport-https
 locales
 locales-all
 wget 
-vim
 curl
 gnupg2
 unzip
 figlet
-git
-postgresql-client
 inotify-tools
 build-essential
